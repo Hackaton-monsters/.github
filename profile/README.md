@@ -1,6 +1,4 @@
-# Hackaton-monsters
-
-## QuickFix Squad 🚀
+# QuickFix Squad (Hackaton-monsters) 🚀
 
 Welcome to the official repository of QuickFix Squad! We're a team of passionate developers competing in hackathons and building innovative solutions.
 
